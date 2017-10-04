@@ -1,0 +1,273 @@
+
+
+a:hover { 
+    background-color: #ffd550;
+}
+/* Remove margins and padding from the list, and add a black background color */
+ul.navlist {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #003366;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.9);
+}
+
+/* Float the list items side by side */
+ul.navlist li {float: left;}
+
+/* Style the links inside the list items */
+ul.navlist li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+}
+
+ul.navlist li a:hover:not(.active) {
+	background-color: #ffd550;
+	color: black;
+}
+
+ul.navlist li#active a {
+	background-color: #ffd550;
+	color: black; 
+}
+
+ul.navlist li.right {float: right;}
+
+@media screen and (max-width:680px) {
+  ul.navlist li:not(:first-child) {display: none;}
+  ul.navlist li.icon {
+    float: right;
+    display: inline-block;
+  }
+}
+/* hide the list item that contains the link that should open and close the navlist on small screens */
+ul.navlist li.icon {display: none;} 
+
+/* When the screen is less than 680 pixels wide, hide all list items, except for the first one ("Home"). Show the list item that contains the link to open and close the topnav (li.icon) */
+@media screen and (max-width:680px) {
+  ul.navlist li {display: none;}
+  ul.navlist li#active {display: block;}
+  ul.navlist li.icon {
+    float: right;
+    display: inline-block;
+  }
+  ul.navlist.responsive li.icon a{
+      color: black;
+      font-size: 16px;
+  }
+}
+
+/* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens */
+@media screen and (max-width:680px) {
+  ul.navlist.responsive {position: relative;}
+  ul.navlist.responsive li.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  ul.navlist.responsive li {
+    float: none;
+    display: inline;
+  }
+  ul.navlist.responsive li a {
+    display: block;
+    text-align: left;
+  }
+}
+
+body{  
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: large;
+	margin: 0;
+	border: 0;
+	padding: 0;
+	background-color: #F1F1F1;
+}
+
+
+footer {
+  height: 1097px;
+  background-image: url(../media/genericHangingBulbsImages/genericHangingBulbs2/bottomBackground.png);
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: cover;
+  color: #002f5f;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+footer h1 {
+  padding-top: 50px;
+}
+
+footer img {
+  padding-bottom: 50px;
+}
+
+.lightBulb {
+  height: 60px;
+  display: block;
+  background-image: url('../media/bulbGraphics/bulbGraphic2/bulbGraphic2-820-yellow.png');
+}
+.lightBulb:hover {
+  background-image: url('../media/bulbGraphics/bulbGraphic2/bulbGraphic2-820-yellow.png');
+}
+
+#bodyText {
+  padding-left: 100px;
+  padding-top: 40px;
+  padding-bottom: 60px;
+  padding-right: 100px;
+}
+
+.heading {
+  text-align: center;
+}
+.heading a {
+  background-color: transparent;
+  color: white;
+}
+/*.heading:hover {
+  color: #ffd550;
+}*/
+
+h1 {
+  margin-top: 0;
+}
+
+h4 {
+  font-size: 40px;
+}
+
+#headerIndent {
+  text-align: center;
+}
+
+.parallax {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#parallax0 {
+  background-image: url("../media/genericHangingBulbsImages/genericHangingBulbs1/genericHangingBulbs1.jpg");
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#header{ 
+      padding-top:15px;
+      padding-bottom:15px;
+      background-color:#003366;
+    }
+
+.homeSection1 {
+    padding-right: 420px;
+}
+
+
+.rightObjects {
+  float: right;
+  padding-right: 20px;
+  padding-left: 10px;
+}
+
+.leftObjects {
+  float: left;
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-bottom: 20px;
+  width: 100px;
+}
+
+.centerObjects {
+  margin: auto;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.separatedList {
+  clear:both;
+  padding-bottom: 100px;
+  position: relative;
+  padding-bottom: 20px;
+}
+
+#boldText {
+  font-weight: bold;
+}
+
+.rolloverimage{
+  display: block;
+  height: 100px;
+  width: 300px;
+  background: url('../media/bulbGraphics/fluorescentGraphic/fluorescentBulbGraphicYellow.png') bottom;
+}
+.rolloverimage:hover{
+  background-image: url('../media/bulbGraphics/fluorescentGraphic/fluorescentBulbGraphicPurpleRollover.png');
+}
+
+
+@media screen and (max-width:1300px) {
+  .homeSection1 {
+    padding-right: 200px;
+  }
+}
+
+@media screen and (max-width:1000px) {
+  h1 {
+    text-align: left;
+  }
+  .homeSection1 {
+    padding-right: 20px;
+  }
+
+  .leftObjects {
+    clear: both;
+    margin: 0 auto;
+    padding-left: calc(50% - 50px);
+  }
+  .indentedText {
+    clear: both;
+  }
+
+}
+
+@media screen and (max-width: 680px) {
+  
+  #bodyText {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  footer {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  footer h4 {
+    font-size: 30px;
+    text-align: center;
+  }
+  footer img {
+    height: 250px;
+    margin-bottom: 400px;
+  }
+
+
+  .leftObjects {
+    clear: both;
+    margin: 0 auto;
+    padding-left: calc(50% - 50px);
+  }
+  .indentedText {
+    clear: both;
+  }
+
+}
+

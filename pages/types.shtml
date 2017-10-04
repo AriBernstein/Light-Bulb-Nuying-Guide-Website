@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+	<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<title>Light Bulb Types</title>
+
+		<link rel="stylesheet" type="text/css" href="../css/styles.css" />
+
+
+	</head>
+	
+	<div id="header">
+		<div id="inside">
+	        <h1 class="heading"> <a href="index.shtml">The Light Bulb</a><img alt="light bulb graphic" src="../media/bulbGraphics/bulbGraphic2/bulbGraphic2-820-yellow.png" onmouseover="this.src='../media/bulbGraphics/bulbGraphic2/bulbGraphic2-820.png'" onmouseout="this.src='../media/bulbGraphics/bulbGraphic2/bulbGraphic2-820-yellow.png'" height="60"/></h1>
+	        
+	    </div>
+
+	</div>    
+
+	<body>
+		<div>
+			<i class="fa fa-bars" aria-hidden="true"></i>
+			<ul class="navlist" id="mynavlist">
+				<li><a href="index.shtml">Home</a></li>
+				<li><a href="buyingguide.shtml">Buying Guide</a></li>
+				<li id= "active"><a href="types.shtml">Types</a></li>
+				<li><a href="history.shtml">History</a></li>
+				<li><a href="resources.shtml">Resources</a></li>
+				<li class="icon">
+					<a href="javascript:void(0);" onclick="myFunction()">&#9776;</a>
+				</li>
+			</ul>
+		</div>
+				
+		<div id="bodyText">	
+			<p>Following is taken from <a href="http://www.bulbs.com/learning/incandescent.aspx">Bulbs.com</a>.</p>
+		
+			<h2>Types of light bulbs:</h2>
+			<div class="separatedList">
+				<h3>The Incandecent Light Bulb</h3>
+				<img class="leftObjects" src="../media/realBulbGraphics/incandescent/incandescentBulbGraphic1Shadow.png" alt="incandescent light bulb">
+				
+				<p class="indentedText" id="boldText">What are they?</p>
+				<p class="indentedText">The incandescent light bulb or lamp is a source of electric light that works by incandescence, which is the emission of light caused by heating the filament. They are made in an extremely wide range of sizes, wattages, and voltages.</p>
+				
+				<p id="boldText">Where did they come from?</p>
+				
+				<p>Incandescent bulbs are the original form of electric lighting and have been in use for over 100 years. While Thomas Edison is widely considered to be the inventor of the incandescent bulb, there are a number of people who invented components and prototypes of the light bulb well before Edison did.</p>
+				
+				<p>One of those people was British physicist Joseph Wilson Swan, who actually received the first patent for a complete incandescent light bulb with a carbon filament in 1879. Swan’s house was the first in the world to be lit by a light bulb. Edison and Swan merged their companies and together they were the first to design a bulb that was commercially viable.</p>
+				
+				<p id="boldText">How do they work?</p>
+				<p>An incandescent bulb typically consists of a glass enclosure containing a tungsten filament. An electric current passes through the filament, heating it to a temperature that produces light.</p>
+				
+				<p>Incandescent light bulbs usually contain a stem or glass mount attached to the bulb's base which allows the electrical contacts to run through the envelope without gas/air leaks. Small wires embedded in the stem support the filament and/or its lead wires.</p>
+
+				<p>The enclosing glass enclosure contains either a vacuum or an inert gas to preserve and protect the filament from evaporating.</p>
+
+				<p id="boldText">Where are they used?</p>
+				<p>Incandescent bulbs require no external regulating equipment, have a very low manufacturing cost, and work well on either alternating current or direct current. They are also compatible with control devices such as dimmers, timers, and photo sensors, and can be used both indoors and outdoors. As a result, the incandescent lamp is widely used both in household and commercial lighting, for portable lighting such as table lamps, car headlamps, and flashlights, and for decorative and advertising lighting.</p>
+			</div>
+
+
+
+			<div class="separatedList">
+				<h3>The LED (Light Emitting Diode)</h3>
+				<img class="leftObjects" src="../media/realBulbGraphics/led/ledBulbTransparentShadow.png" alt="led light bulb">
+				
+				<p class="indentedText" id="boldText">What are they?</p>
+				<p class="indentedText">LED light bulbs or lamps utilize light-emitting diodes in order to produce light. LED is a “solid-state” technology, which means that the materials used to generate the light are encased within a solid material. Practically, this translates into a lamp with a rated life much longer than those using non-solid-state technology (such as incandescent, halogen, and fluorescent). Solid-state lighting is also much less susceptible to failure due to shock or vibration.</p>
+
+				<p id="boldText">Where did they come from?</p>
+				<p>General LED technology has existed for over forty years. The first visible-spectrum light-emitting-diode was invented in 1962 by Nick Holonyak, Jr., who was working as a consulting scientist for General Electric at the time.</p>
+				<p>However, several factors kept the technology from advancing into practical lighting usage. Cost was a major issue, the first LEDs cost over $200 per diode to produce. Another limiting factor was color, until the 70’s the only color that could be produced by an LED was red. Still another factor was light output, which for a number of years limited the practical usage of LEDs to visual signal applications like indicator lights and signs.</p>
+				<p>Speaking plainly: It was ideal light to see but not to see by, and it was expensive.</p>
+
+				<p>The usage of light-emitting-diodes in light bulbs is a fairly recent and ongoing development. The first mass-installations of LED lighting have happened in just the last few years, and the technology is continuously being improved.</p>
+
+				<p id="boldText">How do they work?</p>
+				<p>For the purposes of practical lighting usage, the light produced must be roughly white. Since unadulterated LEDs have historically only produced non-white colors, one of two methods is used to create white light.</p>
+				<p>The first is an RGB system, which works by mixing light output from red, blue, and green diodes in close proximity in order to create white light. The second is using phosphor-based LEDs, which involves coating an LED with phosphor in order to shift the color into the white spectrum. This is similar to the technology used to create different hues of light from fluorescent lamps.</p>
+
+				<p id="boldText">Where are they used?</p>
+				<p>As is common with rapidly-developing technologies, the ideal applications for LED lighting are changing constantly. Currently, LED lamps are best suited for signs and indicators, night lights, flashlights, undercabinet fixtures, and some recessed light/downlight applications where the constancy of color temperature is not critical. See our LED resources below for more information about whether this technology is suitable for your needs at this time.</p>
+
+			</div>
+			<div class="separatedList">
+				<h3>The HID (High Intensity Discharge)</h3>
+				<img class="leftObjects" src="../media/realBulbGraphics/hid/hid-single-lamp.png" alt="hid light bulb">
+				<p class="indentedText" id="boldText">What are they?</p>
+				<p class="indentedText">HID, or high-intensity discharge light bulbs and lamps, are a family of gas-discharge arc lamps which create light by sending an electrical discharge between two electrodes and through a plasma, or ionized gas. An additional gas is generally used, and this gas serves as an easy way to classify the major types of HID lamps: Mercury, sodium, and metal halide. </p>
+
+				<p>These lamps are known for their high efficiency at turning electricity into light and their long rated life. HID lamps require a ballast in order to generate the initial surge of electricity needed to start them and to regulate their power during normal operation.</p>
+
+				<p id="boldText">Where did they come from?</p>
+				<p>The basic technology for the gas-discharge lamp has existed for over 300 years, and these same principals also guided innovations in other lighting types such as fluorescent and neon. The invention of the gas-discharge lamp is generally credited to Francis Hauksbee, an English scientist, who first demonstrated the technology in 1705.</p>
+				<p>At the time, the lamp was filled with air, but it was later discovered that the light output could be increased by filling the lamp with noble gases, such as neon, xenon, argon, or krypton.</p>
+				<p>Modern HID technology has further increased light output through experimentation in gas mixtures and improved electrodes, but the functional basics of the high-intensity discharge lamp remain the same.</p>
+
+				<p id="boldText">Where are they used?</p>
+				<p>Generally speaking, HID lamps are used primarily in applications where the most critical factor is creating as much visible light per watt as possible. Major applications include streetlights, gymnasiums, warehouses, large retail facilities, and stadiums, and plant growing rooms. Recently, these lamps have also been used in some high-end vehicle headlights. Since most HID lamps produce light which is either very cool white/blue or warm white/yellow, they are generally not used in applications where the aesthetic quality of light is important. Also, some HID bulbs require an extended warm up time and are not suitable for applications where lights are turned on and off on a regular basis.</p>
+
+			</div>
+			<div class="separatedList">
+				<h3>The Compact Fluorescent Bulb</h3>
+				<img class="leftObjects" src="../media/realBulbGraphics/fluorescent/compactFluorescent/compactFluorescentShadow.png" alt="compactFluorescent light bulb">
+				<p class="separatedList" id="boldText">What are they?</p>
+				<p class="indentedText">The compact fluorescent light bulb or lamp is a type of fluorescent lamp generally designed as a replacement for incandescent or halogen lamps. There are two major types of compact fluorescent lamp, screw-in and plug-in.</p>
+				<p>Screw in lamps are self-ballasted and can generally be placed in an existing screw socket without any additional equipment, plug-in bulbs require a ballast and a socket that corresponds to their specific base configuration. These are also sometimes referred to as integrated (screw base) and non-integrated (plug base).</p>
+				<p>Both come in a wide variety of wattages, sizes, color temperatures, and base types, and they are known primarily for their efficiency, long life, low cost, and ease of upgrading.</p>
+				<p id="boldText">Where did they come from?</p>
+				<p>Although compact fluorescent lamps are considered to be a fairly recent technology, this bulb type was actually over 100 years in the making. Circline and U-bent bulbs were both created to reduce the overall length of fluorescent bulbs and were precursors to the CFL as it is known today.</p>
+				<p>The modern CFL was invented by Edward Hammer, an engineer at General Electric, but was not produced at the time due to high production costs. In 1980, Philips became the first manufacturer to mass-produce a compact fluorescent bulb with a screw-in base.</p>
+				<p>Over the last 30 years, the technology has continued to improve. Today’s CFL is smaller, produces more light per watt, warms up more quickly, has better light quality, and is much cheaper than those in years past.</p>
+				<p id="boldText">How do they work?</p>
+				<p>Compact fluorescent lamps are functionally identical to linear fluorescent bulbs. Both are gas-discharge lamps that use electricity emitted from cathodes to excite mercury vapor contained within the glass envelope, using a process known as inelastic scattering. Phosphors and a noble gas such as argon are also contained within the glass envelope. The mercury atoms produce ultraviolet (UV) light, which in turn causes the phosphors in the lamp to fluoresce or glow, producing visible light.</p>
+				<p id="boldText">Where are they used?</p>
+				<p>Compact fluorescent lamps are continuously being improved and are ideal replacements in an ever-increasing number of applications, both commercial and residential. In particular, screw-in CFLs are ideal replacements due to the ease of upgrading. One can simply remove the old lamp and screw in the CFL. Plug-in CFLs require both a specific socket and a ballast, and therefore are more difficult to retrofit.</p>
+				<p>At this point, it is actually easier to discuss where CFLs are not ideal: They are not generally well-suited for use with control devices, such as dimmers, timers, or photo sensors (like motion detectors or daylight sensors). They may function in these applications, but rated life will likely be reduced and therefore this type of usage is not generally recommended or covered under manufacturer warranties. Some CFLs can be used with dimmers without affecting rated life, but only if they are specifically designed for that function and listed as dimmable lamps.</p>
+			</div>
+			<div class="separatedList">
+				<h3>The Linear Fluorescent Bulb</h3>
+				<img class="leftObjects" src="../media/realBulbGraphics/fluorescent/linearFluorescent/linear-fluorescentFlipped.png" alt="linear fluorescent light bulb">
+				<p class="indentedText" id="boldText">What are they?</p>
+				<p class="indentedText">The linear fluorescent light bulb or lamp is a type of gas-discharge lamp. Linear fluorescent bulbs come in a wide variety of lengths, diameters, wattages, and color temperatures. They are known for high energy efficiency, long life, and relatively low cost.</p>
+				<p class="indentedText" id="boldText">Where are they used?</p>
+				<p>The linear fluorescent light bulb or lamp is a type of gas-discharge lamp. Linear fluorescent bulbs come in a wide variety of lengths, diameters, wattages, and color temperatures. They are known for high energy efficiency, long life, and relatively low cost.</p>
+				<p id="boldText">Where did they come from?</p>
+				<p>The early history of linear fluorescent bulbs mirrors that of other gas-discharge lamps, which have been in use and development since the 1700’s. In 1934, a team of scientists and engineers at General Electric built a prototype of what came to be the linear fluorescent as we know it today. The modern linear fluorescent became a commercially viable lighting solution in the late 1930’s, in 1938 the first fluorescent tubes were offered for sale to the public. Another milestone was crossed in 1951; for the first time in the US, more light was produced by fluorescent lamps than by incandescent lamps.</p>
+
+				<p id="boldText">How do they work?</p>
+				<p>Linear fluorescent lamps are functionally identical to compact fluorescent (CFL) lamps. Both are gas-discharge lamps that use electricity emitted from cathodes to excite mercury vapor contained within the glass envelope, using a process known as inelastic scattering. Phosphors and a noble gas such as argon are also contained within the glass envelope. The mercury atoms produce ultraviolet (UV) light, which in turn causes the phosphors in the lamp to fluoresce or glow, producing visible light. These lamps do rely on outside power source and regulation from a ballast.</p>
+			</div>
+			<div class="separatedList">
+				<h3>The Halogen Light Bulb</h3>
+				<img class="leftObjects" src="../media/realBulbGraphics/halogen/flippedHalogenBulbShadow.png" alt="halogen light bulb">
+				<p class="indentedText" id="boldText">What are they?</p>
+				<p class="indentedText">The halogen light bulb or lamp is a type of incandescent lamp which uses a halogen gas in order to increase both light output and rated life. They are known for moderately high efficiency, quality of light, and high rated life compared to regular incandescent lamps.</p>
+				<p id="boldText">Where do they come from?</p>
+				<p>The early history of the halogen lamp parallels that of the incandescent. The usage of chlorine to prevent blackening of the lamp was patented in 1882. In 1959, General Electric patented a commercially viable halogen lamp using iodine as the halogen gas.</p>
+				<p id="boldText">How do they work?</p>
+				<p>A halogen lamp functions identically to an incandescent lamp, with one notable exception: The halogen cycle. In a typical incandescent lamp, tungsten slowly evaporates from the burning filament. This causes blackening of the lamp, which decreases light output and reduces life.</p>
+				<p>Halogen lamps are largely able to eliminate this problem because the halogen gas reacts chemically with the evaporated tungsten to prevent it from affixing to the glass. Some tungsten is returned to the filament, which also serves to increase the rated life of the lamp. Because the temperature required for this reaction is higher than a typical incandescent bulb, halogen lamps must generally be manufactured using quartz.</p>
+				<p id="boldText">Where are they used?</p>
+				<p>Halogen lamps are used in a variety of applications, both commercial and residential. Halogen lamps are used in automotive headlamps, under-cabinet lighting, and work lights. In addition, halogen reflectors like MR and PAR lamps are often preferred for directed lighting such as spotlights and floodlights. They are also increasingly being used as a more efficient alternative to incandescent reflectors. There are not many situations in which halogen lamps cannot be used, but one potential downside is the heat generated by halogen lamps, particularly in areas where HVAC costs are a concern.</p>
+			</div>
+
+			<div class="separatedList">
+				<h3>The Germicidal Light Bulb</h3>
+				<img class="leftObjects" src="../media/realBulbGraphics/germicidal/germicidalSized.png" alt="germicidal light bulb">
+				<p id="boldText">What are they?</p>
+				<p class="indentedText">A germicidal light bulb or lamp is designed to use a combination of special phosphors and a quartz glass envelope for the process of eliminating germs and/or the creation of ozone. They come in a variety of wattages, voltages, sizes, and base types. They produce little if any visible light and are designed primarily for the purpose of sterilization or ozone creation.</p>
+
+				<p id="boldText">How do they work?</p>
+				<p>Germicidal lamps come in two main types, low pressure and medium pressure. Low pressure is the more common of the two types, and they are almost always fluorescent lamps. They differ from regular fluorescent lamps in two primary ways: The glass envelope or tube is made from fused quartz, and there is no phosphor in the tube. The lack of phosphor allows ultraviolet light in the short-wave UV-C range to leave the lamp unaltered. In germicidal applications, they function by creating ultraviolet light in a specific range as a mutagen that is effective at killing bacteria by disrupting its DNA structure.</p>
+
+				<p>High pressure lamps work the same way, but generally create a higher intensity output in a wider range of UV light. These are often used in applications such as water purification, where a large area needs to be disinfected by each lamp.</p>
+
+				<p id="boldText">Where are they used?</p>
+				<p>Germicidal lamps are used in a variety of applications where disinfection is the primary concern, such as water and air purification, food and beverage protection, and sterilization of sensitive tools such as medical instruments. It is important to note that the UV range used in most germicidal bulbs is harmful to both skin and eyes, and should not be used in any fixture or application that was not designed specifically to prevent exposure to humans or animals.</p>
+			</div>
+		</div>
+		<script src="../javascript/main.js"></script>
+	</body>
+	<footer>
+			<!--#include file="inc/footer.shtml"-->
+	</footer>
+</html>

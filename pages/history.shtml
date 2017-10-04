@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+	<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<title>Light Bulb History</title>
+
+		<link rel="stylesheet" type="text/css" href="../css/styles.css" />
+
+
+	</head>
+	
+	<div id="header">
+		<div id="inside">
+	        <h1 class="heading"> <a href="index.shtml">The Light Bulb</a><img alt="light bulb graphic" src="../media/bulbGraphics/bulbGraphic2/bulbGraphic2-820-yellow.png" onmouseover="this.src='../media/bulbGraphics/bulbGraphic2/bulbGraphic2-820.png'" onmouseout="this.src='../media/bulbGraphics/bulbGraphic2/bulbGraphic2-820-yellow.png'" height="60"/></h1>
+	        
+	    </div>
+
+	</div>   
+
+	<body>
+		<div>
+			<i class="fa fa-bars" aria-hidden="true"></i>
+			<ul class="navlist" id="mynavlist">
+				<li><a href="index.shtml">Home</a></li>
+				<li><a href="buyingguide.shtml">Buying Guide</a></li>
+				<li><a href="types.shtml">Types</a></li>
+				<li id= "active"><a href="history.shtml">History</a></li>
+				<li><a href="resources.shtml">Resources</a></li>
+				<li class="icon">
+					<a href="javascript:void(0);" onclick="myFunction()">&#9776;</a>
+				</li>
+			</ul>
+		</div>
+		
+		
+		<div id="bodyText">	
+			
+			<iframe width="100%" height="315" src="https://www.youtube.com/embed/nbiCLHneyaA" frameborder="0" allowfullscreen></iframe>
+
+			<p>Following is taken from <a href="http://www.energy.gov/articles/history-light-bulb">Energy.gov</a>.</p>
+		
+			<p>More than 150 years ago, inventors began working on a bright idea that would have a dramatic impact on how we use energy in our homes and offices. This invention changed the way we design buildings, increased the length of the average workday and jumpstarted new businesses. It also led to new energy breakthroughs -- from power plants and electric transmission lines to home appliances and electric motors.</p>
+
+			<p>Like all great inventions, the light bulb can’t be credited to one inventor. It was a series of small improvements on the ideas of previous inventors that have led to the light bulbs we use in our homes today.</p>
+
+			<h3>Incandescent Bulbs Light the Way</h3>
+
+			<p>Long before Thomas Edison patented -- first in 1879 and then a year later in 1880 -- and began commercializing his incandescent light bulb, British inventors were demonstrating that electric light was possible with the arc lamp. In 1835, the first constant electric light was demonstrated, and for the next 40 years, scientists around the world worked on the incandescent lamp, tinkering with the filament (the part of the bulb that produces light when heated by an electrical current) and the bulb’s atmosphere (whether air is vacuumed out of the bulb or it is filled with an inert gas to prevent the filament from oxidizing and burning out). These early bulbs had extremely short lifespans, were too expensive to produce or used too much energy.</p>
+
+			<p>When Edison and his researchers at Menlo Park came onto the lighting scene, they focused on improving the filament -- first testing carbon, then platinum, before finally returning to a carbon filament. By October 1879, Edison’s team had produced a light bulb with a carbonized filament of uncoated cotton thread that could last for 14.5 hours. They continued to experiment with the filament until settling on one made from bamboo that gave Edison’s <a href="/exit?url=http%3A//www.ieeeghn.org/wiki/index.php/Early_Light_Bulbs" rel="nofollow" class="ext">lamps a lifetime of up to 1,200 hours</a><span class="ext"></span> -- this filament became the standard for the Edison bulb for the next 10 years. Edison also made other improvements to the light bulb, including creating a better vacuum pump to fully remove the air from the bulb and developing the Edison screw (what is now the standard socket fittings for light bulbs).</p>
+
+			<p>(Historical footnote: One can’t talk about the history of the light bulb without mentioning William Sawyer and Albon Man, who received a U.S. patent for the incandescent lamp, and Joseph Swan, who patented his light bulb in England. There was debate on whether Edison’s light bulb patents infringed on these other inventors’ patents. Eventually Edison’s U.S. lighting company merged with the Thomson-Houston Electric Company -- the company making incandescent bulbs under the Sawyer-Man patent -- to form General Electric, and Edison’s English lighting company merged with Joseph Swan’s company to form Ediswan in England.)</p>
+
+			<p>What makes <a href="/articles/top-8-things-you-didn-t-know-about-thomas-alva-edison">Edison’s contribution to electric lighting</a> so extraordinary is that he didn’t stop with improving the bulb -- he developed a whole suite of inventions that made the use of light bulbs practical. Edison modeled his lighting technology on the existing gas lighting system. In 1882 with the Holborn Viaduct in London, he demonstrated that electricity could be distributed from a centrally located generator through a series of wires and tubes (also called conduits). Simultaneously, he focused on improving the generation of electricity, developing the first commercial power utility called the <a href="/articles/top-9-things-you-didnt-know-about-americas-power-grid">Pearl Street Station</a> in lower Manhattan. And to track how much electricity each customer was using, Edison developed the first electric meter.</p>
+
+			<p>While Edison was working on the whole lighting system, other inventors were continuing to make small advances, improving the filament manufacturing process and the efficiency of the bulb. The next big change in the incandescent bulb came with the invention of the tungsten filament by <a href="/exit?url=http%3A//americanhistory.si.edu/lighting/20thcent/prec20.htm" rel="nofollow" class="ext">European inventors</a><span class="ext"></span> in 1904. These new tungsten filament bulbs lasted longer and had a brighter light compared to the carbon filament bulbs. In 1913, Irving Langmuir figured out that placing an inert gas like nitrogen inside the bulb doubled its efficiency. Scientists continued to make improvements over the next 40 years that reduced the cost and increased the efficiency of the incandescent bulb. But by the 1950s, researchers still had only figured out how to convert about <a href="/energysaver/articles/converted-incandescent-lighting">10 percent of the energy the incandescent bulb</a> used into light and began to focus their energy on other lighting solutions.</p>
+
+			<h3>Energy Shortages Lead to Fluorescent Breakthroughs</h3>
+
+			<p>In the 19th century, two Germans -- glassblower Heinrich Geissler and physician Julius Plücker -- discovered that they could produce light by removing almost all of the air from a long glass tube and passing an electrical current through it, an invention that became known as the Geissler tube. A type of discharge lamp, these lights didn’t gain popularity until the early 20th century when researchers began looking for a way to improve lighting efficiency. Discharge lamps became the basis of many lighting technologies, including neon lights, low-pressure sodium lamps (the type used in outdoor lighting such as streetlamps) and <a href="/energysaver/articles/converted-fluorescent-lighting">fluorescent lights</a>.</p>
+
+			<p>Both <a href="http://apps1.eere.energy.gov/buildings/publications/pdfs/ssl/cfl_lessons_learned_web.pdf">Thomas Edison and Nikola Tesla</a> experimented with fluorescent lamps in the 1890s, but neither ever commercially produced them. Instead, it was Peter Cooper Hewitt’s breakthrough in the early 1900s that became one of the precursors to the fluorescent lamp. Hewitt created a blue-green light by passing an electric current through mercury vapor and incorporating a ballast (a device connected to the light bulb that regulates the flow of current through the tube). While the Cooper Hewitt lamps were more efficient than incandescent bulbs, they had few suitable uses because of the color of the light.</p>
+
+			<p>By the late 1920s and early 1930s, European researchers were doing experiments with neon tubes coated with <a href="/eere/energybasics/articles/fluorescent-lighting-basics">phosphors</a> (a material that absorbs ultraviolet light and converts the invisible light into useful white light). These findings sparked fluorescent lamp research programs in the U.S., and by the mid and late 1930s, American lighting companies were demonstrating fluorescent lights to the U.S. Navy and at the 1939 New York World’s Fair. These lights lasted longer and were about three times more efficient than incandescent bulbs. The need for energy-efficient lighting American war plants led to the rapid adoption of fluorescents, and by 1951, more light in the U.S. was being produced by linear <a href="/exit?url=http%3A//americanhistory.si.edu/lighting/20thcent/prec20.htm" rel="nofollow" class="ext">fluorescent lamps</a><span class="ext"></span>.</p>
+
+			<p>It was another energy shortage -- the 1973 oil crisis -- that caused lighting engineers to develop a fluorescent bulb that could be used in residential applications. In 1974, researchers at Sylvania started investigating how they could miniaturize the ballast and tuck it into the lamp. While they developed a patent for their bulb, they couldn’t find a way to produce it feasibly. Two years later in 1976, <a href="/exit?url=http%3A//americanhistory.si.edu/lighting/20thcent/invent20.htm" rel="nofollow" class="ext">Edward Hammer at General Electric</a><span class="ext"></span> figured out how to bend the fluorescent tube into a spiral shape, creating the first compact fluorescent light (CFL). Like Sylvania, General Electric shelved this design because the new machinery needed to mass-produce these lights was too expensive.</p>
+
+			<p>Early CFLs hit the market in the mid-1980s at retail prices of $25-35, but prices could vary widely by region because of the different promotions carried out by utility companies. Consumers pointed to the high price as their number one obstacle in purchasing CFLs. There were other problems -- many CFLs of 1990 were big and bulky, they didn’t fit well into fixtures, and they had low light output and inconsistent performance. Since the 1990s, improvements in CFL performance, price, efficiency (they use about 75 percent less energy than incandescents) and lifetime (they last about 10 times longer) have made them a viable option for both renters and homeowners. Nearly 30 years after CFLs were first introduced on the market, an ENERGY STAR® CFL costs as little as $1.74 per bulb when purchased in a four-pack.</p>
+
+			<h3>LEDs: The Future is Here</h3>
+
+			<p>One of the fastest developing lighting technologies today is the <a href="/energysaver/articles/converted-led-lighting">light-emitting diode</a> (or LED). A type of solid-state lighting, LEDs use a semiconductor to convert electricity into light, are often small in area (less than 1 square millimeter) and emit light in a specific direction, reducing the need for reflectors and diffusers that can trap light.</p>
+
+			<p>They are also the most efficient lights on the market. Also called <a href="http://www1.eere.energy.gov/buildings/ssl/sslbasics_ledbasics.html">luminous efficacy</a>, a light bulb’s efficiency is a measure of emitted light (lumens) divided by power it draws (watts). A bulb that is 100 percent efficient at converting energy into light would have an efficacy of 683 lm/W. To put this in context, a 60- to 100-watt incandescent bulb has an efficacy of 15 lm/W, an equivalent CFL has an efficacy of 73 lm/W, and current LED-based replacement bulbs on the market range from 70-120 lm/W with an average efficacy of 85 lm/W.</p>
+
+			<p>In 1962 while working for General Electric, Nick Holonyak, Jr., invented the first visible-spectrum LED in the form of red diodes. Pale yellow and green diodes were invented next. As companies continued to improve red diodes and their manufacturing, they began appearing as indicator lights and calculator displays in the 1970s. The invention of the blue diode in the 1990s quickly led to the discovery of white LEDs -- researchers simply coated the blue diodes with a phosphor to make it appear white. Shortly thereafter, researchers demonstrated white light using red, green and blue LEDs. These breakthroughs led to LEDs being used in a <a href="/articles/top-8-things-you-didn-t-know-about-leds">variety of applications</a> including traffic lights, flashlights and TVs.</p>
+
+			<p>To make LEDs an option for general lighting, researchers next had to focus on improving the efficiency of LEDs -- which in the beginning were no more efficient than incandescent bulbs. In 2000, the Energy Department partnered with private industry to <a href="http://apps1.eere.energy.gov/buildings/publications/pdfs/ssl/ssl-overview_brochure_feb2013.pdf">push white LED technology forward</a> by creating a high-efficiency device that packaged LEDs together.</p>
+
+			<p>When the Department announced the L Prize competition in 2008 (a competition designed to spur the development of ultra-efficient solid-state lighting products to replace common lighting technologies), there were just a few LED bulbs on the market that could serve as a replacement for incandescents, and most were 25-40 watt equivalents. In late 2009, Philips Lighting North America entered its LED bulb in the L Prize 60-watt replacement category. (Why focus on this type of bulb? In 2010, the Department estimated there were approximately 971 million 60-watt incandescent bulbs in use.) After a rigorous evaluation process, including testing by independent laboratories and field assessments, the Energy Department announced that Philips Lighting North America won the first L Prize in 2011. The ability to hit the tough L Prize performance targets showed it could be done and drove others in the market to strive higher.</p>
+
+			<p>Lighting companies continued to make improvements to both the quality of light and the energy efficiency of LEDs while cutting their costs. Since 2008, the cost of <a href="/articles/clean-energy-revolution-now">LED bulbs has fallen more than 85 percent</a>, and most recently, a number of retailers announced that they will sell LEDs at $10 or less. Today’s LED bulbs are also <a href="/articles/top-8-things-you-didn-t-know-about-leds">six to seven times more energy efficient</a> than conventional incandescent lights, cut energy use by more than 80 percent and can last more than 25 times longer. Taken together, these advancements have led to rapid deployment in the past of couple years in both commercial and residential applications. In 2012 alone, more than 49 million LEDs were installed in the U.S. -- saving about $675 million in annual energy costs -- and as prices continue to drop, LEDs are expected to become a common feature in homes across the country.</p>
+
+			<p>Incandescents and existing lighting fixtures use designs that date back to Edison’s days. Replacing the old bulbs with LEDs is only the tip of the iceberg when it comes to saving energy on lighting. LED lighting systems designed to take full advantage of LED’s strengths have even greater energy-savings potential than forcing LEDs into 19th century fixtures.</p>
+
+			<p>It’s hard to tell where lighting technology will go in the future, but one thing is clear: it won’t be your grandfather’s light bulb.</p>
+
+
+
+
+		</div>
+		<script src="../javascript/main.js"></script>
+	</body>
+	<footer>
+			<!--#include file="inc/footer.shtml"-->
+		</footer>
+</html>
